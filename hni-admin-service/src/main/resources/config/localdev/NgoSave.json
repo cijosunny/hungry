@@ -1,0 +1,107 @@
+{
+                           "overview"   :  {
+                                   "name": "uyygt",
+                                   "phone": 68767868,
+                                   "website": "jhghjg",
+                                   "contact": "hgghjg",
+                                   "employees": 5,
+                                   "overview": "jhyghg",
+                                   "mission": "jhgjhg",
+                                   "promoters": [
+                                       "jhghjg",
+                                       "uygg"
+                                   ]
+                               },
+                             "stakeHolder"       : {
+                               "boardMembers": [
+                                   {
+                                       "name": "iuyuyiuy",
+                                       "company": "uyyiy"
+                                   }
+                               ],
+                               "brandPartners": [
+                                   {
+                                       "company": "uytyt",
+                                       "phoneNumber": 876
+                                   }
+                               ],
+                               "localPartners": [
+                                   {
+                                       "company": "ygyug",
+                                       "phoneNumber": 7678
+                                   }
+                               ]
+                           },
+                             "service"           : {
+                                "brkfstChk": true,
+                                "brkfstQty": 2,
+                                "lunchChk": true,
+                                "lunchQty": 1,
+                                "dinnerChk": true,
+                                "dinnerQty": 3,
+                                "baggedChk": true,
+                                "baggedQty": 1,
+                                "giftCard": 3,
+                                "other": "wqer",
+                                "serviceCalender": {
+                                    "Sunday": [
+                                        "Breakfast"
+                                    ],
+                                    "Monday": [
+                                        "Breakfast"
+                                    ],
+                                    "Tuesday": [
+                                        "Lunch"
+                                    ],
+                                    "Wednesday": [
+                                        "Lunch"
+                                    ],
+                                    "Thursday": [
+                                        "Dinner"
+                                    ],
+                                    "Friday": [
+                                        "Dinner"
+                                    ]
+                                },
+                                "monthlyBudget": "0-$500",
+                                "operatingCost": "0-$500",
+                                "personnelCost": "0-$500",
+                                "volunteerNbr": 3,
+                                "foodBankSelect": true,
+                                "foodBankValue": [
+                                    "wer",
+                                    "wewer"
+                                ],
+                                "resource": ["Y","X"]
+                            },
+                             "funding"           : {
+                             "fundingSource": [
+                                 {
+                                     "source": "ygyg",
+                                     "amount": 67565
+                                 }
+                             ],
+                             "mealDonation": [
+                                 {
+                                     "source": "htfthf",
+                                     "mealQty": 2,
+                                     "frequency": "gfhgf"
+                                 }
+                             ],
+                             "mealFunding": [
+                                 {
+                                     "source": "tftyf",
+                                     "amount": 23
+                                 }
+                             ]
+                         },
+                             "client"            : {
+                                    "individualsServedDaily": 2,
+                                    "individualsServedMonthly": 2,
+                                    "individualsServedAnnually": 2,
+                                    "individualClientInfoCollected": false,
+                                    "unshelteredClientPercentage": 23,
+                                    "employeedClientPercentage": 21
+                                
+                  }    
+                }

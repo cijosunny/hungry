@@ -1,0 +1,1 @@
+this file is just a placeholder to keep the WEB-INF directory available for the Maven WAR build.
